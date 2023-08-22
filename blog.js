@@ -1,6 +1,3 @@
-// Sample blog posts data
-const blogPosts = [{'title': 'First Blog Post', 'content': 'This is the content of the first blog post. It can be in HTML or Markdown.', 'date': '2023-08-22', 'tags': ['Tag1', 'Tag2']}, {'title': 'Second Blog Post', 'content': 'This is the content of the second blog post. More content goes here.', 'date': '2023-08-21', 'tags': ['Tag3', 'Tag4']}];
-
 // Function to create blog post cards
 function createBlogPostCards() {
     const container = document.querySelector('.blog-container');
