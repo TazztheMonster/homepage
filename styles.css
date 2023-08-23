@@ -31,6 +31,9 @@ body {
     gap: 10px;
 }
 
+.cards-container a{
+    color: #ffffff;
+}
 
 .filter {
     display: flex;
